@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: paleturquoise  ;
+     padding:5px ;
+}
+
+h1{
+    border:inset goldenrod ;
+}
+
+footer{
+    background-color: aquamarine;
+    border:inset tomato ;
+}
+
+nav a{
+   border:1px solid navy ;
+   background-color:navy ;
+   color:rgb(71, 162, 29);
+   border-radius:5px ;
+   margin:4opx;
+
+}
+
+.Products{
+    background-color:burlywood ;
+    border:4px solid burlywood ;
+    border-radius:2px ;
+}
+
+.sus{
+    background-color: aqua;
+    border:4px solid aqua ;
+}
